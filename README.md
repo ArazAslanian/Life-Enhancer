@@ -1,6 +1,6 @@
 # Life-Enhancer
 
-note: you have to open images in new tab to see full size
+note: you have to open images in a new tab to see full size
 
 During the semester, I have been learning a lot about user-experience, IoT devices, and how they claim to be making our lives easier.
 
