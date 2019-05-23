@@ -1,5 +1,7 @@
 # Life-Enhancer
 
+note: you have to open images in new tab to see full size
+
 During the semester, I have been learning a lot about user-experience, IoT devices, and how they claim to be making our lives easier.
 
 I started getting annoyed with how useless some IoT devices are. I also started thinking a lot about how those IoT devices make us even more dependent on technology, and as a result we might get even more addicted to them.
